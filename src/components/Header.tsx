@@ -83,7 +83,7 @@ const Header: React.FC<HeaderProps> = ({
           <div className="flex items-center space-x-2">
             <a href="/">
               <img 
-                src="src/logo.png" 
+                src="https://www.yeta.tv/wp-content/uploads/2022/01/cropped-cropped-x-4.png" 
                 alt="YETA TV Logo" 
                 className="h-auto w-32 md:w-34 object-contain" 
               />
