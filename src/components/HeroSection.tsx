@@ -38,7 +38,7 @@ const HeroSection = () => {
           />
         ) : (
           <img 
-            src="https://images.pexels.com/photos/7991579/pexels-photo-7991579.jpeg?auto=compress&cs=tinysrgb&w=1920&h=1080&fit=crop"
+            src="https://www.yeta.tv/wp-content/uploads/2024/10/Kadi-Kansinaw-PUb.jpg"
             alt="YETA TV Productions"
             className="w-full h-full object-cover"
             loading="eager"

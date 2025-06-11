@@ -13,7 +13,7 @@ const SeriesSection = () => {
       views: "1.2M",
       rating: "4.8",
       videoId: "3CEvkMv18ZM",
-      thumbnail: "https://images.pexels.com/photos/7991438/pexels-photo-7991438.jpeg?auto=compress&cs=tinysrgb&w=800&h=1200&fit=crop",
+      thumbnail: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEW0hwLEwgtxlxEYrAmPgMEpmgU4_iNJIF8Q&s",
       description: "Une exploration profonde des relations familiales modernes en Afrique de l'Ouest."
     },
     {
@@ -21,8 +21,8 @@ const SeriesSection = () => {
       title: "Le Goût des Sentiments",
       views: "890K",
       rating: "4.6", 
-      videoId: "dQw4w9WgXcQ",
-      thumbnail: "https://images.pexels.com/photos/7991579/pexels-photo-7991579.jpeg?auto=compress&cs=tinysrgb&w=800&h=1200&fit=crop",
+      videoId: "3CEvkMv18ZM",
+      thumbnail: "https://i.ytimg.com/vi/Pe5uD7PzPGk/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLAGSjnE40ls88KcuYfy1aUCX1pDig",
       description: "Un drame romantique qui explore l'amour, la tradition et la modernité."
     },
     {
@@ -30,8 +30,8 @@ const SeriesSection = () => {
       title: "Kansinaw",
       views: "1.5M",
       rating: "4.9",
-      videoId: "jNQXAC9IVRw",
-      thumbnail: "https://images.pexels.com/photos/7991647/pexels-photo-7991647.jpeg?auto=compress&cs=tinysrgb&w=800&h=1200&fit=crop",
+      videoId: "3CEvkMv18ZM",
+      thumbnail: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOI0oBShIiaVH_H2Y5_1v4HaQC29RLC3V8kg&s",
       description: "Une série captivante sur les défis de la jeunesse africaine contemporaine."
     }
   ];
